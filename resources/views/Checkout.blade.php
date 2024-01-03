@@ -63,9 +63,9 @@
                                            </div>
                                            <div class="mainmenu pull-left">
                                                    <ul class="nav navbar-nav collapse navbar-collapse">
-                                                           <li><a href="index.html" class="active">Home</a></li>
-                                                           <li><a href="contact-us.html">Contact</a></li>
-                                                           <li><a href="konfirmasi.html">Confirm</a></li>
+                                                    <li><a href="/" class="active">Home</a></li>
+                                                    <li><a href="https://www.instagram.com/berkawan.travel?igsh=bWVqYzN4cmc5d2tz"target="blank">Contact</a></li>
+                                                    <li><a href="/Confirm">Confirm</a></li>
                                                    </ul>
                                            </div>
                                    </div>
